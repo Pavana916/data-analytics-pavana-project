@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 📊 Data Analytics Project
 
 ### Suspicious & Potentially Fraudulent Credit-Card Transaction Analysis
@@ -81,6 +81,5 @@ Pavana916
 - GitHub: @Pavana916
 - Repository:
   data-analytics-pavana-project
-::: {align="center"}
+
 **Built with Microsoft Power BI**
-:::
